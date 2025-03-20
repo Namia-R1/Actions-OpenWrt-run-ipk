@@ -3,10 +3,10 @@
 #  自己拿过来diy测试的你可以自己去搞也可以用我这个。
 ##  这是基于[悟空的日常](https://github.com/wukongdaily)     
 ![Github](https://img.shields.io/badge/Passwall.run-123456?logo=github&logoColor=fff&labelColor=green&style=for-the-badge) ![Github](https://img.shields.io/badge/openclash.run-123456?logo=github&logoColor=fff&labelColor=red&style=for-the-badge) ![Github](https://img.shields.io/badge/SSRP.run-123456?logo=github&logoColor=fff&labelColor=blue&style=for-the-badge) ![Github](https://img.shields.io/badge/passwall2.run-123456?logo=github&logoColor=fff&labelColor=AB5ED8&style=for-the-badge)<br> ![Github](https://img.shields.io/badge/nikki.run-123456?logo=github&logoColor=fff&labelColor=yellow&style=for-the-badge) ![Github](https://img.shields.io/badge/AdGuardHome.run-123456?logo=github&logoColor=fff&labelColor=8470FF&style=for-the-badge) ![Github](https://img.shields.io/badge/MOSDNS.run-123456?logo=github&logoColor=fff&labelColor=FF7F00&style=for-the-badge)
-# RunFilesBuilder 
-<img src="https://img.shields.io/github/downloads/wukongdaily/RunFilesBuilder/total.svg?style=for-the-badge&color=32C955"/>  [![GitHub Release](https://img.shields.io/github/v/release/wukongdaily/RunFilesBuilder?style=for-the-badge&logoColor=green&color=%23E1A8CD)](https://github.com/wukongdaily/RunFilesBuilder/releases)
+# Actions-OpenWrt-run-ipk 
+<img src="https://img.shields.io/github/downloadsNamia-R1/Actions-OpenWrt-run-ipk/total.svg?style=for-the-badge&color=32C955"/>  [![GitHub Release](https://img.shields.io/github/v/releaseNamia-R1/Actions-OpenWrt-run-ipk?style=for-the-badge&logoColor=green&color=%23E1A8CD)](https://github.comNamia-R1/Actions-OpenWrt-run-ipk/releases)
 
-【[ENGLISH](https://github.com/wukongdaily/RunFilesBuilder/blob/master/README_en.md)】
+【[ENGLISH](https://github.comNamia-R1/Actions-OpenWrt-run-ipk/blob/master/README_en.md)】
 
 >> 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/OpenWrt 用的run自解压包<br>
 >> 本质上是利用makeslef,将ipk和shell文件打包成自解压程序。<br>
@@ -42,6 +42,3 @@ sh xxx.run
 ## Immortalwrt 如何安装iStore商店
 ```
 wget -qO imm.sh https://cafe.cpolar.top/wkdaily/zero3/raw/branch/main/zero3/imm.sh && chmod +x imm.sh && ./imm.sh
-
-```
-
