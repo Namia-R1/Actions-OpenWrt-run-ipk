@@ -14,7 +14,7 @@ sh xxx.run
 - _x86_64.run  代表64位通用型 比如工控机 电脑等
 
 ## 项目简介
-【[ENGLISH](https://github.com/wukongdaily/RunFilesBuilder/blob/master/README_en.md)】
+【[ENGLISH](https://github.com/Namia-R1/Actions-OpenWrt-run-ipk/blob/master/README_en.md)】
 
 >> 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt 用的run自解压包<br>
 >> 本质上是利用makeslef,将ipk和shell文件打包成自解压程序。<br>
