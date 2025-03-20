@@ -8,6 +8,9 @@
 
 name: Make nikki run files for 23.05
 
+permissions: write-all
+#开启写权限，防止无法上传到release
+
 on:
   workflow_dispatch:
 
