@@ -8,7 +8,7 @@
 
 > Like This
 ```bash
-wget -O nikki.run https://github.com/wukongdaily/RunFilesBuilder/releases/download/v1.17.5/nikki_v1.17.5_x86_64.run
+wget -O nikki.run https://github.com/Namia-R1/Actions-OpenWrt-run-ipk/releases/download/v1.17.5/nikki_v1.17.5_x86_64.run
 sh nikki.run
 ```
 
